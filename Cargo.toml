@@ -1,6 +1,12 @@
 [package]
 name = "nbp-api"
+description = "Client for the NBP Web API"
 version = "0.1.0"
+readme = "README.md"
+repository = "https://github.com/mrozycki/nbp-api-rs/"
+keywords = ["currency", "financial", "exchange"]
+categories = ["finance", "api-bindings"]
+license = "MIT"
 edition = "2021"
 
 [dependencies]
